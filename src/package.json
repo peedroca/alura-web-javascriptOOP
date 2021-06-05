@@ -1,0 +1,24 @@
+{
+  "name": "bytebank",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Projeto do bytebank para seus clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peedroca/alura-web-javascriptOOP.git"
+  },
+  "keywords": [
+    "bytebank",
+    "js"
+  ],
+  "author": "Pedro H.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peedroca/alura-web-javascriptOOP/issues"
+  },
+  "homepage": "https://github.com/peedroca/alura-web-javascriptOOP#readme"
+}
